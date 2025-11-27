@@ -6,9 +6,7 @@ This is a simple Python script I wrote to practice working with lists and the `l
 - It initializes a list with a bunch of numbers.
 - Then, it calculates and prints the length of the list (the number of items in it).
 
-### How to use it
-1. Copy the Python code into a `.py` file (for example, `list_length.py`).
-2. Run the script, and it will print out the length of the list.
+
 
 ### Code Example:
 ```python
