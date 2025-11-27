@@ -15,5 +15,5 @@ l = [13, 99, 6, 76, 11, 83, 27, 84, 28, 67, 66, 22, 96, 46, 63, 21, 65,]()
 
 
 
-Output:
+Output expected:
 Length of the list: 31
