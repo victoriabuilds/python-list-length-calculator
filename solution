@@ -1,0 +1,5 @@
+# Initialize the list
+l = [13, 99, 6, 76, 11, 83, 27, 84, 28, 67, 66, 22, 96, 46, 63, 21, 65, 48, 8, 14 , 84, 22, 28, 11, 83, 87, 11, 76, 6, 83, 27]
+
+# Print the length of the list
+print("Length of the list:", len(l))
